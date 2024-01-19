@@ -1,3 +1,0 @@
-# Projeto-secreto
-
-Bem-vindo, Aqui você encontra diversos papeis de parede de anime, onde a paixão pela arte japonesa ganha vida em pixels. Explore uma vasta coleção de imagens vibrantes e cativantes, cuidadosamente selecionadas para transformar o seu dispositivo em uma tela que respira anime. Desde cenas épicas de batalha até momentos ternos e encantadores, nosso acervo abrange uma variedade de estilos e personagens para atender a todos os gostos otaku. Personalize o seu espaço digital com a magia e a intensidade que só o mundo dos animes pode oferecer. Deixe a sua tela contar histórias emocionantes com nossos papéis de parede cuidadosamente curados.
