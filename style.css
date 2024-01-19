@@ -1,0 +1,124 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color:aliceBlue;
+    font-family:Courier New;
+    
+}
+
+header{
+    background-color:;
+}
+
+header .nomeSiteHeader{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+   background-color:#4682B4; 
+   height:70px;
+   
+}
+
+header .nomeSite{
+    color:white;
+}
+
+
+nav h3{
+    display:flex;
+    background-color:lightblue;
+    justify-content:center;
+    align-items:center;
+    width:115px;
+    height:50px;
+    border-radius:10px;
+    cursor:pointer;
+	   transition: 0.2s ease-in-out;
+}
+
+nav{
+    
+    margin-top:10px;
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    background-color:;
+}
+
+nav h3:hover {
+    transform: scale(1.05);
+}
+
+.listaDeFotos{
+    background-color:gld;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    padding-top:10px;
+}
+
+main .fotos{
+    width:300px;
+    height:535px;
+    background-color:b;
+    margin:10px;
+    border-radius:10px;
+    overflow:hidden;
+}
+
+main img{
+    width:100%;
+    height:470px;
+    border-radius:10px;
+}
+
+
+header .descricao{
+    background-color:;
+    font-size:20px;
+    margin:15px;
+    margin-top:20px;
+    
+    
+}
+
+
+main button{
+    width:100%;
+    height:40px;
+    border-radius:10px;
+    margin-top:20px;
+    background-color:#3CB371;
+    color:white;
+    font-weight:bold;
+    border:none;
+    cursor:pointer;
+    
+}
+
+
+footer{
+    background-color:#4682B4;
+    width:100%;
+    height:100px;
+    
+}
+
+footer .creditos{
+    display:flex;
+    
+    justify-content:center;
+    align-items:center;
+    
+}
+
+footer .creditosTexto{
+    font-size:20px;
+    margin-top:20px;
+    color:white;
+    margin-top:40px;
+}
